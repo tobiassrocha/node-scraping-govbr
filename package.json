@@ -1,0 +1,16 @@
+{
+  "name": "node-scraping-govbr",
+  "version": "1.0.0",
+  "description": "Exemplo simples de web scraping em um site do Governo Federal Brasileiro com Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Rocha da Rosa",
+  "license": "ISC",
+  "dependencies": {
+      "express": "latest",
+      "request": "latest",
+      "cheerio": "latest"
+  }
+}
